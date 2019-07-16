@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! My name is Eugene Morozov and I am fullstack web developer. Welcome to my blog :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mevgeny7@yandex.ru](mailto:mevgeny7@yandex.ru)
