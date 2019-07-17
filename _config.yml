@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+title: Eugene Morozov blog
 
 # Name of your site (displayed in the header)
 name: Eugene Morozov
@@ -15,10 +16,12 @@ avatar: https://avatars3.githubusercontent.com/u/25183792?s=400&u=9c564c0080b017
 # Flags below are optional
 #
 
+lang: ru
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mevgeny7@yandex.ru
   facebook:
   flickr:
   github: jmorozov
@@ -37,7 +40,7 @@ footer-links:
 disqus: https-jmorozov-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-144007705-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -76,6 +79,7 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:
